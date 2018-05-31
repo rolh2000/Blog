@@ -1,0 +1,40 @@
+*{
+	box-sizing: 0;
+
+}
+
+h1, h2, h3 {
+	font-family: 'Shadows Into Light', cursive;
+	text-align: center;
+
+}
+
+p{
+	text-align: center;
+}
+
+
+main{
+	font-family: calibri serif;
+	font-size: 20px;
+}
+
+img{
+   height: 400px;
+   display: inline-block;
+   width: 300px;
+   border-radius: 50%;
+}
+
+.container {
+	width: 100%;
+}
+.img{
+	display: inline-block;
+	margin: 30px;
+	height: 30%;
+}
+
+.display {
+	display: inline-block;
+}
