@@ -4,6 +4,15 @@ Historia de Usuario 1
 Yo como USUARIO DEL BLOG Deseo PODER ELEGIR EN LA PANTALLA PRINCIPAL DEL LOG EL CONTINENTE O REGION EN EL CUAL SE ENCUENTRA EL PAIS DESEADO 
 
 Criterios de aceptación
+* Que se despliegue la imagen de un mapa con los continentes (América, Europa, África, Asia y Oceanía) y pueda elegir alguno de ellos   para posteriormente elegir algun país  
+* Que haya eabajo de la imagen de los continentes, una serie de últimas recomendaciones para viajar, publicadas en el boletin que se envía a los usuarios que lo solciten   
+* Que la página cuente con el nombre del Blog y su logotipo en el encabezado
+
+
+Historia de Usuario 1
+Yo como USUARIO DEL BLOG Deseo PODER ELEGIR EN LA PANTALLA PRINCIPAL DEL LOG EL CONTINENTE O REGION EN EL CUAL SE ENCUENTRA EL PAIS DESEADO 
+
+Criterios de aceptación
 * Que se despliegue una lista o tabla con los países de la región seleccionada en la página principal 
 * Que elemento de la lista cuente con una foto del pais y una breve descripción  
 * Que al seleccionar algun elemento de la lista me despliegue una nueva pantalla con los lugares que son recomendables para viajar 
