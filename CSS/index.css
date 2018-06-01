@@ -6,6 +6,13 @@ table{
     background-color: aqua;
 }
 
+#logo {
+	width: 210px;
+	padding-left: 40px;
+	padding-top: 10px;
+	position: absolute;
+}
+
 tr {
     display: inline-block;
 }
